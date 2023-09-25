@@ -33,4 +33,4 @@
 5. [**Day 5: Practice and Resources**](days/day5/day5.md)
    - 5.1 Recap of Key Concepts
    - 5.2 15 Very Easy Project Suggestions
-```
+
