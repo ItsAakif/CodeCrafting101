@@ -30,7 +30,7 @@ In this repository, you'll find a structured curriculum, daily lessons, hands-on
 
 ## Get Started
 
-Are you ready to embark on this learning journey? Start by clicking on the [Day 1: Introduction to HTML](days/day1.md) folder and dive into your first lesson.
+Are you ready to embark on this learning journey? Start by clicking on the [Day 1: Introduction to HTML](days/day1//day1.md) folder and dive into your first lesson.
 
 Feel free to connect with fellow participants, ask questions, and share your progress. Let's make Genesis Initiate a memorable and enriching experience for everyone!
 
@@ -38,4 +38,4 @@ Happy coding, and welcome to Genesis Initiate!
 
 ---
 
-[Get Started](../CodeCrafting101/days/day1/day1.md) 
+[Get Started](days/day1/day1.md) 

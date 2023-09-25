@@ -93,3 +93,5 @@ To further enhance your understanding of HTML fundamentals, consider exploring t
   - [Sublime Text](https://www.sublimetext.com/)
 
 These resources offer in-depth explanations, tutorials, and tools to help you grasp HTML fundamentals effectively. Whether you're a beginner or looking to dive deeper, they provide valuable insights into HTML, which is the foundation of web development.
+
+>> [Day 2](days/day2/day2.md) 

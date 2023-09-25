@@ -199,5 +199,5 @@ To further enhance your knowledge of HTML elements and text formatting, you can 
 
 These resources offer detailed explanations, tutorials, and examples to help you gain a deeper understanding of HTML elements, text formatting, and how to create structured web content. They are valuable references for web development enthusiasts at all levels.
 
- [Day 1](../day1/day1.md) | [Day 3](../day2/day2.md)  
+ [Day 1](../day1/day1.md) | [Day 3](../day3/day3.md)  
 
